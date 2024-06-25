@@ -11,9 +11,8 @@ Node.js and npm installed on your system.
 
 **Bash**
 
-`npm install @typespec/http @typespec/rest @typespec/openapi3`
-
-`npm install -g @stoplight/prism-cli`
+`npm install @typespec/http @typespec/rest @typespec/openapi3
+npm install -g @stoplight/prism-cli`
 
 Use code with caution.
 
